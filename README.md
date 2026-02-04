@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoma0101&theme=tokyonight&hide=jupyter%20notebook&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryoma0101&theme=tokyonight" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats-ten-blond-30.vercel.app/api/top-langs/?username=Ryoma0101&theme=tokyonight&hide=jupyter%20notebook&layout=compact" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats-ten-blond-30.vercel.app/api?username=Ryoma0101&theme=tokyonight" alt="GitHub Stats" height="150px" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ryoma0101&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy-three-tau.vercel.app/?username=Ryoma0101&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </div>
 
 <div align="center">
