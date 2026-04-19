@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-site-beta-indol.vercel.app/">
+  <a href="https://portfolio-site-8qy.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out%20!-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
 </div>
